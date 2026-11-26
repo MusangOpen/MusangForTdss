@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/MusangOpen/MusangForTdss/main/MusangForTdss.us
 
 ## 当前版本
 
-`3.22.2` · 535.4 KB
+`3.25.2` · 555.0 KB
 
 ## 用法
 
